@@ -1,10 +1,10 @@
 # NaturalLanguageProcessing
 
-In this file 3 different applications of natural language processing is available.
+In this file 4 different applications of natural language processing is available.
 
 ## 1- Embeddings
 
-Embeddings are great. You can even create a recommender system using them. 
+Embeddings are great. You can even create a recommender system using them. Two ipyb notebooks are dedicated to application of embeddings.
 
 ## 2- Machine Translation
 
